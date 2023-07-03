@@ -32,11 +32,11 @@ func main() {
 
 	//////////////////////////////////////
 
-	//slice02 := []int{}
-	//fmt.Println(slice02, "--slice02 origin--")
-	//
-	//slice03 := make([]int, 10)
-	//fmt.Println(slice03, "--slice03 origin--")
+	slice02 := []int{}
+	fmt.Println(slice02, "--slice02 origin--")
+
+	slice03 := make([]int, 10)
+	fmt.Println(slice03, "--slice03 origin--")
 
 	//////////////////////////////////////
 
