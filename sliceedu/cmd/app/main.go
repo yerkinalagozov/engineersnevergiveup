@@ -12,16 +12,16 @@ type Users struct {
 
 func main() {
 
-	//users := []Users{
-	//	{
-	//		Name: "a",
-	//		Age:  1,
-	//	},
-	//}
-	//fmt.Println(users)
-	//
-	//var u []Users
-	//u = append(u, users...)
+	users := []Users{
+		{
+			Name: "a",
+			Age:  1,
+		},
+	}
+	fmt.Println(users)
+
+	var u []Users
+	u = append(u, users...)
 
 	//O(n)
 
