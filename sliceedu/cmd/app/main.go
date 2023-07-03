@@ -25,10 +25,10 @@ func main() {
 
 	//O(n)
 
-	//arr11 := [10]int{}
-	//fmt.Println(arr11, "--arr11 origin--")
-	//arr12 := make([]int, 10)
-	//fmt.Println(arr12, "--arr12 origin--")
+	arr11 := [10]int{}
+	fmt.Println(arr11, "--arr11 origin--")
+	arr12 := make([]int, 10)
+	fmt.Println(arr12, "--arr12 origin--")
 
 	//////////////////////////////////////
 
